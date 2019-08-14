@@ -10,7 +10,7 @@ So, neither source code nor any other resource is available yet.
 
 # PREREQUISITES:
 
-The project built executable file "zoinho-ver-alpha.tap" is in ZX Spectrum tape format and may be used to execute or else load the game into either an emulator or else a real compatible machine.
+The project built executable file "zoinho-ver-alpha.tap" is in ZX Spectrum tape format (.TAP) and may be used to execute or else load the game into either an emulator or else a real compatible machine accordingly.
 
 # INSTALLING:
 
@@ -47,4 +47,4 @@ This project is licensed under the following licenses:
 
 Thank you Sir Clive Sinclair for creating the ZX Spectrum 8 bit computer.
 
-Thanks to the ZX Spectrum world wide comunitiy and to everyone else who to this day supports this wonderful 8 bit computer with hardware, knowledge, resources, emulators, developing tools and etc. 
+Thanks to the ZX Spectrum world wide comunitiy and to everyone else, who to this day supports this wonderful 8 bit computer with hardware, knowledge, resources, emulators, developing tools and etc. 
