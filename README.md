@@ -41,7 +41,7 @@ Ricardo Calaça Nunes - Initial work
 This project is licensed under the following licenses:
 
 1) Source code and game resources: GNU General Public License v3.0 (gpl-3.0)
-2) Creative work / content: Creative Commons Attribution Share Alike 4.0 (cc-by-sa-4.0)
+2) Creative work / content: Creative Commons Attribution-NonCommercial-ShareAlike 4.0  (CC BY-NC-SA-4.0)
 
 # ACKNOWLEDGEMENTS:
 
